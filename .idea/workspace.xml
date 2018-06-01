@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0aff4bc-d5eb-42d8-a5b2-ee207bc02509" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com.bxk/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com.bxk/封装.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com.bxk/循环.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com.bxk/算法1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com.bxk/算法2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com.bxk/继承子子类.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com.bxk/继承子类.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/com.bxk/继承父类.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/com_bxk_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com.bxk/src/算法3.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -443,7 +430,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527559790100</updated>
-      <workItem from="1527559791491" duration="23211000" />
+      <workItem from="1527559791491" duration="23234000" />
     </task>
     <task id="LOCAL-00001" summary="试一下">
       <created>1527839650217</created>
@@ -459,11 +446,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527841192993</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="保存">
+      <created>1527845987083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527845987083</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23211000" />
+    <option name="totallyTimeSpent" value="23234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -578,7 +572,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="试一下" />
-    <option name="LAST_COMMIT_MESSAGE" value="试一下" />
+    <MESSAGE value="保存" />
+    <option name="LAST_COMMIT_MESSAGE" value="保存" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
