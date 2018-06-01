@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="com.bxk:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_bxk_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="com.bxk/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="com.bxk" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
